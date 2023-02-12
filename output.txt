@@ -1,0 +1,14 @@
+PS D:\SUSI\PROGRAM\Hadoop-mapreduce> python lib_mapreduce.py benda.txt
+No configs found; falling back on auto-configuration
+No configs specified for inline runner
+Creating temp directory C:\Users\ASUSRO~1\AppData\Local\Temp\lib_mapreduce.ASUS ROG G750JX.20230212.092416.559718
+Running step 1 of 1...
+job output is in C:\Users\ASUSRO~1\AppData\Local\Temp\lib_mapreduce.ASUS ROG G750JX.20230212.092416.559718\output
+Streaming final output from C:\Users\ASUSRO~1\AppData\Local\Temp\lib_mapreduce.ASUS ROG G750JX.20230212.092416.559718\output...
+"gunting"       930
+"headset"       288
+"kertas"        273
+"paku"  603
+"palu"  906
+Removing temp directory C:\Users\ASUSRO~1\AppData\Local\Temp\lib_mapreduce.ASUS ROG G750JX.20230212.092416.559718...
+PS D:\SUSI\PROGRAM\Hadoop-mapreduce>
